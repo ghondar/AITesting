@@ -1,0 +1,6 @@
+{
+  "name": "particles",
+  "dependencies": {
+    "synaptic": "^0.1.7"
+  }
+}
